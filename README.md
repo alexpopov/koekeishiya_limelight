@@ -13,7 +13,7 @@ For the old version of limelight that was simply a focused border, see [focused_
 
 Requires access to the accessibility API. Supports macOS High Sierra, Mojave, Catalina and Big Sur.
 
-Documentation: https://github.com/koekeishiya/limelight/blob/master/doc/limelight.asciidoc
+Documentation: https://github.com/alexpopov/koekeishiya_limelight/blob/master/doc/limelight.asciidoc
 
 ```sh
 # add the following to the end of your yabairc to have it launch automatically when yabai starts.
